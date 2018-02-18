@@ -1,2 +1,2 @@
 # wiki
-Made an empty repo so that I could use GitHub's wiki server feature.
+Go to https://github.com/UAlberta-EcoCar/wiki/wiki to view our Wiki
